@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stacks & Tools
 
 #### Roles
-![](https://img.shields.io/badge/Backend%2FServer-000000?style=for-the-badge&logo=serverfault&logoColor=white)
+![](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=serverfault&logoColor=white)
 ![](https://img.shields.io/badge/Frontend-4169E1?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Full%20Stack-34A853?style=for-the-badge&logo=google&logoColor=white)
 

@@ -52,9 +52,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/API-005C8C?style=for-the-badge&logo=apm&logoColor=white)
 ![](https://img.shields.io/badge/Rendering-B32D2E?style=for-the-badge&logo=dart&logoColor=white)
 
+# 📂 My Projects
+
+## 🚀 주요 프로젝트 경험
+
 ### 1. 화물 중개 플랫폼 (Freight Brokerage Platform) 🚛
 
 **🗓️ 기간:** [2025.07.25 ~ 2025.09.05]
+
 **👥 역할:** [화물주의 마이페이지 및 3자 결제 모듈 API 를 이용한 포인트 충전 및 결제 시스템 구축]
 
 **📝 주요 내용:**
@@ -64,12 +69,13 @@ Here are some ideas to get you started:
 * **백엔드:** [Java], [Spring Boot], [PostgreSQL], [Spring Data JPA], [REST API]
 * **프론트엔드:** [React], [Redux], [HTML5], [CSS3]
 
-**🔗 자세히 보기:**
-[![PPT Link](https://img.shields.io/badge/Presentation%20PPT-D14836?style=flat-square&logo=google-slides&logoColor=white)]([https://docs.google.com/presentation/d/1-f2L11L-bgyGYkBMXS3jffJ7c0uVMkKS-1JRHorLUuo/edit?pli=1&slide=id.p1#slide=id.p1])
+**🔗 포트폴리오:**
+[![PPT Link](https://img.shields.io/badge/Presentation%20PPT-D14836?style=flat-square&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1-f2L11L-bgyGYkBMXS3jffJ7c0uVMkKS-1JRHorLUuo/edit?pli=1&slide=id.p1#slide=id.p1)
 
 ### 2. 의류 쇼핑몰 (Online Fashion Mall) 👗
 
 **🗓️ 기간:** [2025.04.22 ~ 2025.05.08]
+
 **👥 역할:** [회원 가입 / 로그인 관련 기능 구현 및 제작]
 
 **📝 주요 내용:**
@@ -78,6 +84,6 @@ Here are some ideas to get you started:
 **⚙️ 사용 기술:**
 * **프론트엔드:** [JavaScript], [HTML5], [CSS3], [VSCode]
 
-**🔗 자세히 보기:**
-[![PPT Link](https://img.shields.io/badge/Presentation%20PPT-D14836?style=flat-square&logo=google-slides&logoColor=white)]([https://docs.google.com/presentation/d/1Q1C6WtoUIJLVbGpRb6FffnpWh_nJckB9g26RgKeLu5o/edit?slide=id.p#slide=id.p])
+**🔗 포트폴리오:**
+[![PPT Link](https://img.shields.io/badge/Presentation%20PPT-D14836?style=flat-square&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1Q1C6WtoUIJLVbGpRb6FffnpWh_nJckB9g26RgKeLu5o/edit?slide=id.p#slide=id.p)
 

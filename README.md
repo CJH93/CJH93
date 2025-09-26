@@ -51,3 +51,33 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/API-005C8C?style=for-the-badge&logo=apm&logoColor=white)
 ![](https://img.shields.io/badge/Rendering-B32D2E?style=for-the-badge&logo=dart&logoColor=white)
+
+### 1. 화물 중개 플랫폼 (Freight Brokerage Platform) 🚛
+
+**🗓️ 기간:** [2025.07.25 ~ 2025.09.05]
+**👥 역할:** [화물주의 마이페이지 및 3자 결제 모듈 API 를 이용한 포인트 충전 및 결제 시스템 구축]
+
+**📝 주요 내용:**
+화주와 차주를 직접 연결하여 운송 과정을 최적화하는 웹 기반 플랫폼 개발. 실시간 배송 현황, 견적 시스템, 결제 및 포인트 기능 등을 구현했습니다.
+
+**⚙️ 사용 기술:**
+* **백엔드:** [Java], [Spring Boot], [PostgreSQL], [Spring Data JPA], [REST API]
+* **프론트엔드:** [React], [Redux], [HTML5], [CSS3]
+
+**🔗 자세히 보기:**
+[![PPT Link](https://img.shields.io/badge/Presentation%20PPT-D14836?style=flat-square&logo=google-slides&logoColor=white)]([https://docs.google.com/presentation/d/1-f2L11L-bgyGYkBMXS3jffJ7c0uVMkKS-1JRHorLUuo/edit?pli=1&slide=id.p1#slide=id.p1])
+
+### 2. 의류 쇼핑몰 (Online Fashion Mall) 👗
+
+**🗓️ 기간:** [2025.04.22 ~ 2025.05.08]
+**👥 역할:** [회원 가입 / 로그인 관련 기능 구현 및 제작]
+
+**📝 주요 내용:**
+웹 디자인을 적용한 의류 전문 쇼핑몰 구축. UI/UX 및 기능을 구현했습니다.
+
+**⚙️ 사용 기술:**
+* **프론트엔드:** [JavaScript], [HTML5], [CSS3], [VSCode]
+
+**🔗 자세히 보기:**
+[![PPT Link](https://img.shields.io/badge/Presentation%20PPT-D14836?style=flat-square&logo=google-slides&logoColor=white)]([https://docs.google.com/presentation/d/1Q1C6WtoUIJLVbGpRb6FffnpWh_nJckB9g26RgKeLu5o/edit?slide=id.p#slide=id.p])
+

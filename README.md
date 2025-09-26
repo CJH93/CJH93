@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I`m JaeHyeong 👋
 
 <!--
 **CJH93/CJH93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,8 +53,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Rendering-B32D2E?style=for-the-badge&logo=dart&logoColor=white)
 
 # 📂 My Projects
-
-## 🚀 주요 프로젝트 경험
 
 ### 1. 화물 중개 플랫폼 (Freight Brokerage Platform) 🚛
 
